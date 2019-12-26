@@ -1,0 +1,18 @@
+family:
+  family-name: "happy family"
+  father:
+    name:
+    age:
+  month:
+    alies:
+      - lovly
+      - beautiful
+  child:
+    name:
+    age:
+    friends:
+      - hobby:football
+        sex: meal
+      - hobby:bastball
+        sex: femeal
+

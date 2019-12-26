@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Code/src/Debug/Demo2/Demo2.iml" filepath="$USER_HOME$/Desktop/Code/src/Debug/Demo2/Demo2.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Demo3/Demo2 (1).iml" filepath="$USER_HOME$/Desktop/Demo3/Demo2 (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demo2/demo2.iml" filepath="$PROJECT_DIR$/../demo2/demo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../demoocr/demoocr.iml" filepath="$PROJECT_DIR$/../demoocr/demoocr.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Code (2)/src/Debug/fruit/fruit.iml" filepath="$USER_HOME$/Desktop/Code (2)/src/Debug/fruit/fruit.iml" />
+      <module fileurl="file://E:/oa_system/oasys.iml" filepath="E:/oa_system/oasys.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/springboot.iml" filepath="$PROJECT_DIR$/.idea/springboot.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/d40e8bc0b84210de7db64fb201d6cd44/springboottest1/springboottest1.iml" filepath="$USER_HOME$/Desktop/d40e8bc0b84210de7db64fb201d6cd44/springboottest1/springboottest1.iml" />
+    </modules>
+  </component>
+</project>

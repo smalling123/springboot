@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/../demo2/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Code/src/Debug/Demo2/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Demo3/pom.xml" />
+        <option value="$PROJECT_DIR$/../demoocr/pom.xml" />
+        <option value="$USER_HOME$/Desktop/Code (2)/src/Debug/fruit/pom.xml" />
+        <option value="E:/oa_system/pom.xml" />
+        <option value="$USER_HOME$/Desktop/d40e8bc0b84210de7db64fb201d6cd44/springboottest1/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
